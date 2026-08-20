@@ -99,6 +99,6 @@ This project demonstrates the ability to move beyond raw numbers and communicate
 **Hooria Khan**  
 Perception Engineer · Data Engineer · Data Analyst
 
-[GitHub Profile](https://github.com/hooriaakhan6-prog)
+[GitHub Profile](https://github.com/hooriaakhann)
 
 </div>
